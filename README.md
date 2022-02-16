@@ -282,6 +282,11 @@ Make your motto **ABB** - Always Be Building!
 - [Framer](https://www.framer.com/)
 - [Moqups](https://moqups.com/)
 - [Canva](https://www.canva.com/) - free online tool for creating graphics and other Photoshop-like features
+    
+> Open Source Bootstrap Admin Templates
+ 
+- [Sneat Free Bootstrap HTML Admin Template](https://github.com/themeselection/sneat-html-admin-template-free): Open-source & Easy to use Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
+
 
 ## **Reference** <span id="Reference"></span>
 
